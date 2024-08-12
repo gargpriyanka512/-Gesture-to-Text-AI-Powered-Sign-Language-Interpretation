@@ -3,3 +3,6 @@ hand gestures representing the ASL alphabet. The model will also recognize gestu
 SPACE, DELETE, and NOTHING, making it more useful in real-time conversations. This
 project aims to help people who are hearing-impaired communicate more easily with those
 who do not know sign language.
+
+References :
+Dataset: https://www.kaggle.com/datasets/grassknoted/asl-alphabet/data
